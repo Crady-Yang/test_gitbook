@@ -16,5 +16,9 @@
 
 ![](/assets/gitbook_5.png)
 
+5.查看关联
+
+![](/assets/gitbook_6.png)
+
 
 
