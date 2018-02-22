@@ -12,3 +12,5 @@
 
 3.创建完成后，同步
 
+![](/assets/gitbook_4.png)
+
