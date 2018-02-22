@@ -18,7 +18,13 @@
 
 5.查看关联
 
-![](/assets/gitbook_6.png)
+![](/assets/gitbook_7.png)
+
+6.开始同步
+
+![](/assets/gitbook_8.png)同步失败
+
+选择前置同步gitbook内容
 
 
 
