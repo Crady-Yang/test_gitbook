@@ -22,9 +22,9 @@
 
 6.开始同步
 
-![](/assets/gitbook_8.png)同步失败
-
-选择前置同步gitbook内容
+![](/assets/gitbook_8.png)同步失败，选择强制同步gitbook内容
 
 
+
+7.同步完成![](/assets/gitbook_9.png)
 
